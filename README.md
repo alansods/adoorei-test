@@ -1,7 +1,7 @@
 # adoorei-test
 
 ## Live Preview
-<a href="#">###</a>
+<a href="https://dainty-frangipane-9169a0.netlify.app/">https://dainty-frangipane-9169a0.netlify.app/</a>
 
 ## Project setup
 ```
